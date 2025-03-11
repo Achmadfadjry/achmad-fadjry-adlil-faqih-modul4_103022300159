@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "achmad fadjry adlil faqih modul4_103022300159/1.0.0": {
+        "runtime": {
+          "achmad fadjry adlil faqih modul4_103022300159.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "achmad fadjry adlil faqih modul4_103022300159/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

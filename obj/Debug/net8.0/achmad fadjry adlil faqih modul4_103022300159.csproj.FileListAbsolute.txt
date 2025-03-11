@@ -1,0 +1,15 @@
+D:\achmad fadjry adlil faqih modul4_103022300159\obj\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.GeneratedMSBuildEditorConfig.editorconfig
+D:\achmad fadjry adlil faqih modul4_103022300159\obj\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.AssemblyInfoInputs.cache
+D:\achmad fadjry adlil faqih modul4_103022300159\obj\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.AssemblyInfo.cs
+D:\achmad fadjry adlil faqih modul4_103022300159\obj\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.csproj.CoreCompileInputs.cache
+D:\achmad fadjry adlil faqih modul4_103022300159\obj\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.sourcelink.json
+D:\achmad fadjry adlil faqih modul4_103022300159\bin\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.exe
+D:\achmad fadjry adlil faqih modul4_103022300159\bin\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.deps.json
+D:\achmad fadjry adlil faqih modul4_103022300159\bin\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.runtimeconfig.json
+D:\achmad fadjry adlil faqih modul4_103022300159\bin\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.dll
+D:\achmad fadjry adlil faqih modul4_103022300159\bin\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.pdb
+D:\achmad fadjry adlil faqih modul4_103022300159\obj\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.dll
+D:\achmad fadjry adlil faqih modul4_103022300159\obj\Debug\net8.0\refint\achmad fadjry adlil faqih modul4_103022300159.dll
+D:\achmad fadjry adlil faqih modul4_103022300159\obj\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.pdb
+D:\achmad fadjry adlil faqih modul4_103022300159\obj\Debug\net8.0\achmad fadjry adlil faqih modul4_103022300159.genruntimeconfig.cache
+D:\achmad fadjry adlil faqih modul4_103022300159\obj\Debug\net8.0\ref\achmad fadjry adlil faqih modul4_103022300159.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("achmad fadjry adlil faqih modul4_103022300159")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe61c120f9af39eca831780eefc7211b03da8c6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("achmad fadjry adlil faqih modul4_103022300159")]
 [assembly: System.Reflection.AssemblyTitleAttribute("achmad fadjry adlil faqih modul4_103022300159")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
